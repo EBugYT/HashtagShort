@@ -5,7 +5,6 @@ If you will put this in root you will use
 ```
 yourwebsite.com/#shortcode
 ```
-This way you can try it in this repo.
 
 If you place it in a folder, like sh for example you will use
 ```
